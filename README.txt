@@ -23,3 +23,17 @@ https://rda.ucar.edu/datasets/ds084.1/dataaccess/
 The sounding was retrieved from the following link:
 
 https://weather.uwyo.edu/upperair/sounding.html
+
+EXTERNAL LINKS:
+
+Accumulated Snowfall Plot:
+https://www.weather.gov/lot/2018feb311_snow
+
+Radar loop of rain / snowfall rates:
+https://www.weather.gov/images/lot/pastevents/2018/FebSnow/Feb89loop.gif
+
+St. Joseph River hydrograph, flooding image, and storm total rainfall:
+https://www.weather.gov/iwx/Flooding_February2018
+
+Snow event image:
+https://www.weather.gov/iwx/2018feb9_winterstorm
